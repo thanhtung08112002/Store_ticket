@@ -1,0 +1,1 @@
+<h2>Vé bay của bạn đã được hủy. Trân trọng cảm ơn</h2>

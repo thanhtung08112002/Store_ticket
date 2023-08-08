@@ -56,7 +56,7 @@
             <a class="dropdown-item" href="javascript:void(0);"><i class='bx bx-bitcoin'></i> Bitcoin</a>
           </div>
         </div>
-        <a href="javascript:void(0)" class="btn btn-sm btn-outline-danger"><i class='bx bx-log-out-circle'></i> Logout</a>
+        <a href="{{ route('logout') }}" class="btn btn-sm btn-outline-danger"><i class='bx bx-log-out-circle'></i> Logout</a>
       </div>
     </div>
   </footer>
